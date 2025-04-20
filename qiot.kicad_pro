@@ -506,11 +506,7 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "/12_IMX1062/VDD_SOC_IN": [
-        "VDD_SOC_IN"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -886,18 +882,6 @@
     [
       "ea7bcb6b-3454-456d-bab5-9b7d764b6981",
       "11_GPIO_Expander"
-    ],
-    [
-      "5c0409a4-d8d4-4675-bd37-15876b3a991c",
-      "12_IMX1062"
-    ],
-    [
-      "3ca3f225-8576-4971-bbc8-3859bb89b228",
-      "13_ethernet"
-    ],
-    [
-      "c0c717b1-433e-4d51-bf9e-509a30b11895",
-      "14_RAM"
     ]
   ],
   "text_variables": {}

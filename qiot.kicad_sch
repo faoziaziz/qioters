@@ -48,90 +48,6 @@
 		)
 	)
 	(sheet
-		(at 104.775 146.685)
-		(size 29.21 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "3ca3f225-8576-4971-bbc8-3859bb89b228")
-		(property "Sheetname" "13_ethernet"
-			(at 104.775 145.9734 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Ethernet.kicad_sch"
-			(at 104.775 162.5096 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "qiot"
-				(path "/0db193be-516d-4409-bb62-b8733a9e8874"
-					(page "14")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 54.61 140.335)
-		(size 27.94 7.62)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "5c0409a4-d8d4-4675-bd37-15876b3a991c")
-		(property "Sheetname" "12_IMX1062"
-			(at 54.61 139.6234 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "12_imx1062.kicad_sch"
-			(at 54.61 148.5396 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "qiot"
-				(path "/0db193be-516d-4409-bb62-b8733a9e8874"
-					(page "13")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 80.645 104.775)
 		(size 38.1 19.05)
 		(exclude_from_sim no)
@@ -463,48 +379,6 @@
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874"
 					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 143.51 135.255)
-		(size 27.305 17.78)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "c0c717b1-433e-4d51-bf9e-509a30b11895")
-		(property "Sheetname" "14_RAM"
-			(at 143.51 134.5434 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "14_RAM.kicad_sch"
-			(at 143.51 153.6196 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "qiot"
-				(path "/0db193be-516d-4409-bb62-b8733a9e8874"
-					(page "15")
 				)
 			)
 		)
