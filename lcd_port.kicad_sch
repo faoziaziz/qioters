@@ -1990,6 +1990,94 @@
 		(color 0 0 0 0)
 		(uuid "cd1fc588-b769-4a7a-a4d1-beb83496921e")
 	)
+	(no_connect
+		(at 92.71 101.6)
+		(uuid "0bdd53a1-f552-4603-8564-3bf2b0fab232")
+	)
+	(no_connect
+		(at 69.85 101.6)
+		(uuid "183f9fa6-0094-4eaa-bf7c-a5802537dec3")
+	)
+	(no_connect
+		(at 140.97 101.6)
+		(uuid "249c46c0-851a-4f29-89d3-f6b35cf1043c")
+	)
+	(no_connect
+		(at 107.95 101.6)
+		(uuid "32db9fa6-b457-45a0-8a0f-c863f51b1cb3")
+	)
+	(no_connect
+		(at 148.59 101.6)
+		(uuid "3a760853-e6fa-46be-a85e-f7d8e5836b00")
+	)
+	(no_connect
+		(at 143.51 101.6)
+		(uuid "447909c1-f766-464b-962f-ff927873b817")
+	)
+	(no_connect
+		(at 146.05 101.6)
+		(uuid "4f8815ec-9ebe-4275-a073-76536e86c1c8")
+	)
+	(no_connect
+		(at 105.41 101.6)
+		(uuid "5508174f-99a8-441c-ba0b-ac09f508d20d")
+	)
+	(no_connect
+		(at 102.87 101.6)
+		(uuid "550c6abd-95ba-4b2f-b3e7-ce2738313541")
+	)
+	(no_connect
+		(at 95.25 101.6)
+		(uuid "587c2daa-652a-4dce-92c8-e7c141886aa9")
+	)
+	(no_connect
+		(at 87.63 101.6)
+		(uuid "5c77997b-2126-47a1-9dcd-b45531859a45")
+	)
+	(no_connect
+		(at 85.09 101.6)
+		(uuid "5eba800a-c038-4787-bb1d-fcfcf0848766")
+	)
+	(no_connect
+		(at 82.55 101.6)
+		(uuid "66ecfa68-c089-4401-adf4-4cf7ee37fb16")
+	)
+	(no_connect
+		(at 74.93 101.6)
+		(uuid "6af9e13e-8798-4d8f-ada9-25d137a28a93")
+	)
+	(no_connect
+		(at 120.65 101.6)
+		(uuid "875c8e64-9e5c-4d50-b921-788ff0261b9a")
+	)
+	(no_connect
+		(at 72.39 101.6)
+		(uuid "9e1c86c9-2b99-4b38-af3e-9734a8290b7e")
+	)
+	(no_connect
+		(at 100.33 101.6)
+		(uuid "aa88c8c9-5807-4d66-a33e-533ff5fa81dc")
+	)
+	(no_connect
+		(at 90.17 101.6)
+		(uuid "af990178-7cdd-4a45-9522-88e47b40028c")
+	)
+	(no_connect
+		(at 97.79 101.6)
+		(uuid "d665ea01-5cb7-4647-9785-ce710f194c78")
+	)
+	(no_connect
+		(at 77.47 101.6)
+		(uuid "d6eb11e5-9518-4388-b1cb-309aa25079a5")
+	)
+	(no_connect
+		(at 80.01 101.6)
+		(uuid "ea7bae88-3bae-4a64-852c-dca3680d6305")
+	)
+	(no_connect
+		(at 130.81 101.6)
+		(uuid "fdf521fa-365f-4ab6-856f-76c985366a11")
+	)
 	(wire
 		(pts
 			(xy 67.31 86.36) (xy 67.31 101.6)
