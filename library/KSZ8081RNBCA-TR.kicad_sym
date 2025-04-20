@@ -1,0 +1,286 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "KSZ8081RNBCA-TR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at -20.3547 30.532 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "KSZ8081RNBCA-TR" (id 1) (at -20.3354 -33.043 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "KSZ8081RNBCA-TR:QFN50P500X500X100-33N" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Microchip" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "KSZ8081RNBCA-TR_0_0"
+      (rectangle (start -20.32 -30.48) (end 20.32 30.48)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin power_in line (at 25.4 27.94 180.0) (length 5.08)
+        (name "VDD_1.2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 25.4 180.0) (length 5.08)
+        (name "VDDA_3.3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -25.4 180.0) (length 5.08)
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -12.7 0) (length 5.08)
+        (name "RXM"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -15.24 0) (length 5.08)
+        (name "RXP"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -17.78 0) (length 5.08)
+        (name "TXM"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -20.32 0) (length 5.08)
+        (name "TXP"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input clock (at 25.4 17.78 180.0) (length 5.08)
+        (name "XI"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output clock (at 25.4 15.24 180.0) (length 5.08)
+        (name "XO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 25.4 0) (length 5.08)
+        (name "REXT"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 17.78 0) (length 5.08)
+        (name "MDIO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input clock (at -25.4 20.32 0) (length 5.08)
+        (name "MDC"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 10.16 180.0) (length 5.08)
+        (name "RXD3/PHYAD0"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "13"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 7.62 180.0) (length 5.08)
+        (name "RXD2/PHYAD1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "14"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 5.08 180.0) (length 5.08)
+        (name "RXD1/PHYAD2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "15"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 2.54 180.0) (length 5.08)
+        (name "RXD0/DUPLEX"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "16"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 22.86 180.0) (length 5.08)
+        (name "VDDIO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "17"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -2.54 180.0) (length 5.08)
+        (name "RXDV/CONFIG2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "18"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -5.08 180.0) (length 5.08)
+        (name "RXC/B-CAST_OFF"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "19"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -7.62 180.0) (length 5.08)
+        (name "RXER/ISO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "20"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -12.7 180.0) (length 5.08)
+        (name "INTRP/NAND_TREE#"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "21"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional clock (at -25.4 0.0 0) (length 5.08)
+        (name "TXC"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "22"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 2.54 0) (length 5.08)
+        (name "TXEN"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "23"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 12.7 0) (length 5.08)
+        (name "TXD0"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "24"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 10.16 0) (length 5.08)
+        (name "TXD1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "25"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 7.62 0) (length 5.08)
+        (name "TXD2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "26"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 5.08 0) (length 5.08)
+        (name "TXD3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "27"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -5.08 0) (length 5.08)
+        (name "COL/CONFIG0"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "28"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -25.4 -7.62 0) (length 5.08)
+        (name "CRS/CONFIG1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "29"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -17.78 180.0) (length 5.08)
+        (name "LED0/NWAYEN"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "30"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 25.4 -20.32 180.0) (length 5.08)
+        (name "LED1/SPEED"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "31"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -25.4 27.94 0) (length 5.08)
+        (name "~{RST}"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "32"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 25.4 -27.94 180.0) (length 5.08)
+        (name "GND__1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "33"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
