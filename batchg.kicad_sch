@@ -4835,7 +4835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "009e1012-1b0f-4099-8e26-96f0f9f7c906")
-		(property "Reference" "C61"
+		(property "Reference" "C53"
 			(at 109.22 46.9899 0)
 			(effects
 				(font
@@ -4853,7 +4853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10.5"
 			(at 107.0102 52.07 0)
 			(effects
 				(font
@@ -4880,6 +4880,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 106.045 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4d6e192a-5751-4e59-93c6-aaeb44498dff")
 		)
@@ -4889,7 +4985,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "C61")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -4905,7 +5001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00e90935-0430-475d-8f02-2a77000dbf8a")
-		(property "Reference" "R41"
+		(property "Reference" "R46"
 			(at 102.235 175.8949 0)
 			(effects
 				(font
@@ -4950,6 +5046,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 99.695 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "249c621d-73da-4e0e-a58b-ffbb4a286f48")
 		)
@@ -4959,7 +5151,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R41")
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -4975,7 +5167,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0532a26e-ec62-4ca1-aa81-88ba26c33e81")
-		(property "Reference" "R42"
+		(property "Reference" "R56"
 			(at 143.51 167.005 90)
 			(effects
 				(font
@@ -5018,6 +5210,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 143.51 173.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "329195a9-3a1c-4ef3-a394-40f359190e30")
 		)
@@ -5027,7 +5315,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R42")
+					(reference "R56")
 					(unit 1)
 				)
 			)
@@ -5042,7 +5330,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "05968fdb-f817-4e64-9757-228613be324a")
-		(property "Reference" "R47"
+		(property "Reference" "R51"
 			(at 101.6 36.83 0)
 			(effects
 				(font
@@ -5087,6 +5375,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 106.045 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a0f3e0d1-267e-41e7-b067-1a8d2e68d6c7")
 		)
@@ -5096,7 +5480,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R47")
+					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -5112,7 +5496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "060d6170-a27b-4364-b413-ed383bd79447")
-		(property "Reference" "C60"
+		(property "Reference" "C56"
 			(at 210.185 49.5299 0)
 			(effects
 				(font
@@ -5157,6 +5541,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 207.01 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8c9216ee-b462-44e8-80bd-214618e8526c")
 		)
@@ -5166,7 +5646,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "C60")
+					(reference "C56")
 					(unit 1)
 				)
 			)
@@ -5182,7 +5662,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b3a1003-df5f-41d8-aafc-3aa7e65b23f7")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR078"
 			(at 97.155 126.365 0)
 			(effects
 				(font
@@ -5233,7 +5713,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR081")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -5249,7 +5729,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10a14298-0527-4d9c-b67f-77caa907bfe0")
-		(property "Reference" "J10"
+		(property "Reference" "J13"
 			(at 71.12 69.85 0)
 			(effects
 				(font
@@ -5292,6 +5772,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 72.39 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "f3d26ed3-3bdc-4642-b7ea-c4ea289acbc9")
 		)
@@ -5313,7 +5889,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "J10")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -5329,7 +5905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17abd53f-8a8d-4f83-887e-b3aa4bcbcf03")
-		(property "Reference" "C59"
+		(property "Reference" "C58"
 			(at 222.885 76.1999 0)
 			(effects
 				(font
@@ -5374,6 +5950,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 219.075 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6ba0ff8c-c831-467d-b203-9158e6b65ef8")
 		)
@@ -5383,7 +6055,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "C59")
+					(reference "C58")
 					(unit 1)
 				)
 			)
@@ -5399,7 +6071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f407695-2653-4c31-8819-e8e6217452b8")
-		(property "Reference" "C63"
+		(property "Reference" "C54"
 			(at 114.935 74.9299 0)
 			(effects
 				(font
@@ -5444,6 +6116,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 111.76 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2ee62358-d74d-4913-b185-9b85cbf3c555")
 		)
@@ -5453,7 +6221,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "C63")
+					(reference "C54")
 					(unit 1)
 				)
 			)
@@ -5469,7 +6237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2525fa82-c675-41c9-8ad0-1e1cacdf40b5")
-		(property "Reference" "R40"
+		(property "Reference" "R53"
 			(at 114.3 149.2249 0)
 			(effects
 				(font
@@ -5514,6 +6282,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 111.76 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "281cb2c7-2483-41f3-b944-5c1682d56bf3")
 		)
@@ -5523,7 +6387,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R40")
+					(reference "R53")
 					(unit 1)
 				)
 			)
@@ -5539,7 +6403,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25ddef33-ce43-465a-bced-eb19c0e9a101")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR081"
 			(at 122.555 80.01 0)
 			(effects
 				(font
@@ -5590,7 +6454,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR078")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -5606,7 +6470,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3046790d-20b2-42f7-81dc-f6378e2e87c1")
-		(property "Reference" "R55"
+		(property "Reference" "R45"
 			(at 78.105 95.8849 0)
 			(effects
 				(font
@@ -5651,6 +6515,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 76.2 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a38a8e63-183b-413e-a0df-0a48cbd89b9f")
 		)
@@ -5660,7 +6620,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R55")
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -5676,7 +6636,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32b81843-56a7-428b-8140-3689516f89f6")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR076"
 			(at 61.595 88.9 0)
 			(effects
 				(font
@@ -5726,7 +6686,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR089")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -5742,7 +6702,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3827ca2c-323f-4ac8-85b4-1b8ef5950692")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR079"
 			(at 106.045 60.325 0)
 			(effects
 				(font
@@ -5792,7 +6752,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR077")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -5853,6 +6813,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 109.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a4c41ae9-0cb4-43cd-acd2-c6e948dd068a")
 		)
@@ -5879,7 +6935,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3dbdbf77-ffc4-4331-8aab-c3bc68f27c3d")
-		(property "Reference" "J8"
+		(property "Reference" "J15"
 			(at 118.11 175.2599 90)
 			(effects
 				(font
@@ -5924,6 +6980,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 113.03 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1158d066-8db3-4fee-bf98-e8515d192e0e")
 		)
@@ -5936,7 +7088,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "J8")
+					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -5952,7 +7104,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3faa4440-b5ae-4673-9b5f-c9f0dd0e61e1")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR083"
 			(at 137.795 191.77 0)
 			(effects
 				(font
@@ -6002,7 +7154,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR073")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -6018,7 +7170,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "494ef35a-0492-4d67-859f-2328c2809a8e")
-		(property "Reference" "Q8"
+		(property "Reference" "Q9"
 			(at 151.765 27.305 90)
 			(effects
 				(font
@@ -6064,6 +7216,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 151.765 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f91dffff-a446-4b32-99af-aea3340842ce")
 		)
@@ -6076,7 +7324,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "Q8")
+					(reference "Q9")
 					(unit 1)
 				)
 			)
@@ -6090,9 +7338,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "59d1ed4c-c5f1-40ba-a8de-9d6a42cabe1e")
-		(property "Reference" "C57"
+		(property "Reference" "C60"
 			(at 247.65 149.8599 0)
 			(effects
 				(font
@@ -6110,7 +7357,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10.5"
 			(at 245.4402 154.94 0)
 			(effects
 				(font
@@ -6137,6 +7384,106 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" "EEEFK1H151P"
+			(at 253.238 155.448 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacture" "EEEFK1H151P"
+			(at 255.27 157.988 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 244.475 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 244.475 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 244.475 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 244.475 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 244.475 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEEFK1H151P"
+			(at 244.475 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 244.475 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 244.475 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 244.475 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 244.475 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "89474268-9320-42d8-a527-1295c5c46c70")
 		)
@@ -6146,7 +7493,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "C57")
+					(reference "C60")
 					(unit 1)
 				)
 			)
@@ -6162,7 +7509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59ee2f51-6006-4653-bef1-0dd4d6d7fbe0")
-		(property "Reference" "C62"
+		(property "Reference" "C52"
 			(at 104.14 74.9299 0)
 			(effects
 				(font
@@ -6207,6 +7554,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c5526534-f1af-4336-a6ef-79fbeb8a7da7")
 		)
@@ -6216,7 +7659,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "C62")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -6232,7 +7675,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59fc09e6-8bca-4210-8911-df5815b3fbc9")
-		(property "Reference" "R50"
+		(property "Reference" "R54"
 			(at 116.205 123.8249 0)
 			(effects
 				(font
@@ -6277,6 +7720,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 114.3 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c9783340-8a0b-481a-a031-fc2a2dd2f40b")
 		)
@@ -6286,7 +7825,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R50")
+					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -6302,7 +7841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60550456-e82b-47c3-a24f-535080690ab9")
-		(property "Reference" "J14"
+		(property "Reference" "J11"
 			(at 34.29 27.94 0)
 			(effects
 				(font
@@ -6345,6 +7884,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 34.29 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8a006f82-7ad4-4f7b-accb-8fcee8d06024")
 		)
@@ -6354,7 +7989,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "J14")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -6370,7 +8005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "699a0d2b-08f2-49a6-8373-003347d1f3c7")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR077"
 			(at 99.695 191.135 0)
 			(effects
 				(font
@@ -6420,7 +8055,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR072")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -6436,7 +8071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a8bc3d9-a9fd-4fc4-9ba5-9085af21db47")
-		(property "Reference" "R43"
+		(property "Reference" "R55"
 			(at 139.7 179.0699 0)
 			(effects
 				(font
@@ -6481,6 +8116,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 137.795 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c4be5609-bea7-40ab-b6b2-ca07ad51f7a7")
 		)
@@ -6490,7 +8221,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R43")
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -6505,7 +8236,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "753e8e99-fae4-41f7-b928-3326978d6cc6")
-		(property "Reference" "R44"
+		(property "Reference" "R58"
 			(at 233.68 137.16 90)
 			(effects
 				(font
@@ -6548,6 +8279,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 238.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "163fc483-1801-4e10-864e-6dfcd0c182fa")
 		)
@@ -6557,7 +8384,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R44")
+					(reference "R58")
 					(unit 1)
 				)
 			)
@@ -6573,7 +8400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87222115-b344-42ca-9f7e-dd893708061d")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR086"
 			(at 229.235 81.915 0)
 			(effects
 				(font
@@ -6624,7 +8451,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR075")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -6639,7 +8466,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8bbe8fd9-5f73-424c-82c8-215d8676cd5d")
-		(property "Reference" "D9"
+		(property "Reference" "D8"
 			(at 171.45 45.085 0)
 			(effects
 				(font
@@ -6682,6 +8509,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 174.625 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9c327082-abeb-4ed9-b9c5-7e45457c3757")
 		)
@@ -6691,7 +8614,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "D9")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -6706,7 +8629,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9524baf9-5378-498d-bd5f-fd8006074d17")
-		(property "Reference" "R45"
+		(property "Reference" "R59"
 			(at 245.11 130.175 0)
 			(effects
 				(font
@@ -6749,6 +8672,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 247.015 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "812d0be7-cb38-4af7-8191-1c4f0240ec8a")
 		)
@@ -6758,7 +8777,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R45")
+					(reference "R59")
 					(unit 1)
 				)
 			)
@@ -6774,7 +8793,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98829b35-4c9b-4593-ad51-4a77e3d528a6")
-		(property "Reference" "R54"
+		(property "Reference" "R44"
 			(at 67.31 99.6949 0)
 			(effects
 				(font
@@ -6819,6 +8838,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 64.77 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ea37aeae-c2aa-4705-bfdf-836484bdf9b6")
 		)
@@ -6828,7 +8943,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R54")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -6844,7 +8959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cd8d39f-82e5-4b29-aaae-292aed166354")
-		(property "Reference" "C58"
+		(property "Reference" "C57"
 			(at 218.44 104.7749 0)
 			(effects
 				(font
@@ -6889,6 +9004,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 214.63 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "78751b17-d562-4774-8de8-a641880fe734")
 		)
@@ -6898,7 +9109,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "C58")
+					(reference "C57")
 					(unit 1)
 				)
 			)
@@ -6959,6 +9170,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 128.905 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ec68aab0-e236-4ab4-a6a6-676e65ca779d")
 		)
@@ -6983,7 +9290,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9fa21960-354d-41ee-8c3e-b9c0cce2da61")
-		(property "Reference" "R46"
+		(property "Reference" "R57"
 			(at 170.18 31.115 90)
 			(effects
 				(font
@@ -7026,6 +9333,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 173.99 33.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ba891844-315d-4182-aebd-1bf2d7b5914b")
 		)
@@ -7035,7 +9438,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R46")
+					(reference "R57")
 					(unit 1)
 				)
 			)
@@ -7051,7 +9454,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a721de0c-adbb-40fa-9d38-615f62f5f94d")
-		(property "Reference" "C56"
+		(property "Reference" "C59"
 			(at 232.41 149.8599 0)
 			(effects
 				(font
@@ -7096,6 +9499,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 229.235 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eb88aeac-20b0-45aa-b07d-0b93029b47c9")
 		)
@@ -7105,7 +9604,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "C56")
+					(reference "C59")
 					(unit 1)
 				)
 			)
@@ -7121,7 +9620,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b09c5e41-596b-44eb-8ecf-d63a167e8ee9")
-		(property "Reference" "#PWR0111"
+		(property "Reference" "#PWR075"
 			(at 46.99 46.355 0)
 			(effects
 				(font
@@ -7171,7 +9670,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR0111")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -7187,7 +9686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b229a5e5-ebc6-46ed-a5f7-d138e2ebf6f7")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR085"
 			(at 207.01 64.77 0)
 			(effects
 				(font
@@ -7237,7 +9736,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR076")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -7252,7 +9751,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b2e25cae-3077-421b-911e-dbc9c18e6bd0")
-		(property "Reference" "L3"
+		(property "Reference" "L2"
 			(at 222.25 117.475 90)
 			(effects
 				(font
@@ -7268,7 +9767,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_APV_APH0620"
+		(property "Footprint" "Inductor_SMD:L_Murata_DFE201610P"
 			(at 226.06 118.745 0)
 			(effects
 				(font
@@ -7295,13 +9794,109 @@
 				(hide yes)
 			)
 		)
-		(property "PartNum" "CXP0620-6R8M-AG(6.8uh)"
+		(property "PartNum" "MAI201610S-6R8MT"
 			(at 226.06 118.745 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPARTS" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 226.06 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7313,7 +9908,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "L3")
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -7396,7 +9991,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5334243-4cf5-4078-9851-4f18e33d6861")
-		(property "Reference" "D10"
+		(property "Reference" "D7"
 			(at 84.455 105.0924 90)
 			(effects
 				(font
@@ -7441,6 +10036,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 81.28 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5b8e8359-2bc8-4814-bc3b-40c201aff86c")
 		)
@@ -7450,7 +10141,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "D10")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -7466,7 +10157,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bdb7b23d-eec8-4c4f-9f94-955895ef4dec")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR084"
 			(at 159.385 168.91 0)
 			(effects
 				(font
@@ -7516,7 +10207,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR071")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -7532,7 +10223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be3068c1-9abd-4c61-bd15-ac3ec57bc29b")
-		(property "Reference" "J9"
+		(property "Reference" "J12"
 			(at 45.72 69.85 0)
 			(effects
 				(font
@@ -7575,6 +10266,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "fa1962f4-78b0-42a3-9c61-ea4c35d8ffc3")
 		)
@@ -7596,7 +10383,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "J9")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -7611,7 +10398,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c88feee9-136f-431f-8dd9-829841441eff")
-		(property "Reference" "Q9"
+		(property "Reference" "Q10"
 			(at 259.08 88.265 90)
 			(effects
 				(font
@@ -7657,6 +10444,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 250.19 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "170796cc-8b58-483b-a152-2401a5e429fb")
 		)
@@ -7669,7 +10552,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "Q9")
+					(reference "Q10")
 					(unit 1)
 				)
 			)
@@ -7685,7 +10568,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da647d5a-dd5e-4f72-9c09-8b30a91ed79a")
-		(property "Reference" "D8"
+		(property "Reference" "D10"
 			(at 227.6475 92.075 0)
 			(effects
 				(font
@@ -7728,6 +10611,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 227.965 98.425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a2cc1ff9-fd3a-4427-9327-13f31899c1b4")
 		)
@@ -7737,7 +10716,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "D8")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -7753,7 +10732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db80582e-8a04-4b2d-a027-6d9375d12500")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR087"
 			(at 238.125 161.925 0)
 			(effects
 				(font
@@ -7803,7 +10782,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR074")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -7859,6 +10838,102 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPARTS" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 102.87 86.995 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -7928,6 +11003,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 103.505 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6e01b698-7e1f-415f-be29-04997ad1f2ee")
 		)
@@ -7954,7 +11125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e56ddd23-c1fb-49d3-976a-65e79cce4431")
-		(property "Reference" "J7"
+		(property "Reference" "J14"
 			(at 100.33 163.1949 90)
 			(effects
 				(font
@@ -7999,6 +11170,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 95.25 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "20546400-1ec1-42ce-a05c-9ffb3f6ed7c2")
 		)
@@ -8011,7 +11278,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "J7")
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -8027,7 +11294,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5b2b61d-9b06-46f8-acac-d109dceb8938")
-		(property "Reference" "R53"
+		(property "Reference" "R47"
 			(at 104.14 95.8849 0)
 			(effects
 				(font
@@ -8072,6 +11339,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 101.6 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7c48628c-22c3-45c7-9d7d-28c650529287")
 		)
@@ -8081,7 +11444,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R53")
+					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -8097,7 +11460,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e998fb49-727e-4fe9-863a-205d6fbf05e3")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR074"
 			(at 36.195 90.17 0)
 			(effects
 				(font
@@ -8147,7 +11510,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR079")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -8162,7 +11525,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9f5d77b-36a8-4048-9416-9b4b6abd67e8")
-		(property "Reference" "U7"
+		(property "Reference" "U6"
 			(at 159.385 95.885 0)
 			(effects
 				(font
@@ -8205,6 +11568,102 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPARTS" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 150.495 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "10"
@@ -8297,7 +11756,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "U7")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -8313,7 +11772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed3427f6-0e1a-43c0-be7b-deca516d46f1")
-		(property "Reference" "D7"
+		(property "Reference" "D9"
 			(at 223.52 131.7624 90)
 			(effects
 				(font
@@ -8358,6 +11817,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 220.98 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9ef6fc2d-29ba-49bb-bccc-f6d5d35aca1d")
 		)
@@ -8367,7 +11922,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "D7")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -8383,7 +11938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee561da1-21ed-41f5-9b10-08cef7bd4681")
-		(property "Reference" "R51"
+		(property "Reference" "R50"
 			(at 107.315 121.2849 0)
 			(effects
 				(font
@@ -8428,6 +11983,102 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPARTS" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacture" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value2" ""
+			(at 104.775 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "320fbdaf-0aec-4421-b6eb-409b0b9ccd44")
 		)
@@ -8437,7 +12088,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "R51")
+					(reference "R50")
 					(unit 1)
 				)
 			)
@@ -8453,7 +12104,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7870d40-c9b4-4b74-bb4c-560a8070e079")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR082"
 			(at 128.905 58.42 0)
 			(effects
 				(font
@@ -8503,7 +12154,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "#PWR070")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)

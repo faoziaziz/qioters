@@ -48,8 +48,8 @@
 		)
 	)
 	(sheet
-		(at 80.645 104.775)
-		(size 38.1 19.05)
+		(at 80.645 109.22)
+		(size 28.067 14.605)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -64,7 +64,7 @@
 		)
 		(uuid "5d3cc06b-b6bf-4398-9e90-5df16b901332")
 		(property "Sheetname" "09_MotorStepper"
-			(at 80.645 104.0634 0)
+			(at 80.645 108.5084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -132,8 +132,8 @@
 		)
 	)
 	(sheet
-		(at 157.48 95.25)
-		(size 26.035 5.715)
+		(at 157.48 86.868)
+		(size 26.035 14.097)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -148,7 +148,7 @@
 		)
 		(uuid "65f7929d-7798-4764-abd1-5709ade91827")
 		(property "Sheetname" "07_dcdcConv"
-			(at 157.48 94.5384 0)
+			(at 157.48 86.1564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -216,49 +216,7 @@
 		)
 	)
 	(sheet
-		(at 193.675 93.98)
-		(size 29.21 6.985)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "9f2d1a23-21ff-4625-9779-00d58ea839de")
-		(property "Sheetname" "08_MotorVendingBLDC"
-			(at 193.675 93.2684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "MotorVending.kicad_sch"
-			(at 193.675 101.5496 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "qiot"
-				(path "/0db193be-516d-4409-bb62-b8733a9e8874"
-					(page "9")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 71.755 67.31)
+		(at 56.769 88.392)
 		(size 24.13 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -274,7 +232,7 @@
 		)
 		(uuid "acf1c912-3329-4b6f-9e80-11dbc1fdd98d")
 		(property "Sheetname" "05_LCD_port"
-			(at 71.755 66.5984 0)
+			(at 56.769 87.6804 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -283,7 +241,7 @@
 			)
 		)
 		(property "Sheetfile" "lcd_port.kicad_sch"
-			(at 71.755 76.7846 0)
+			(at 56.769 97.8666 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -300,8 +258,8 @@
 		)
 	)
 	(sheet
-		(at 80.01 44.45)
-		(size 24.13 5.715)
+		(at 65.786 43.434)
+		(size 22.098 19.558)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -316,7 +274,7 @@
 		)
 		(uuid "b582670a-318c-4850-9ac1-cd19a05caafa")
 		(property "Sheetname" "01_MCU"
-			(at 80.01 43.7384 0)
+			(at 65.786 42.7224 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -325,7 +283,7 @@
 			)
 		)
 		(property "Sheetfile" "01_MCU.kicad_sch"
-			(at 80.01 50.7496 0)
+			(at 65.786 63.5766 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -342,8 +300,8 @@
 		)
 	)
 	(sheet
-		(at 111.125 76.835)
-		(size 24.13 5.715)
+		(at 110.49 76.835)
+		(size 24.765 13.589)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -358,7 +316,7 @@
 		)
 		(uuid "b821f11b-e956-4fb1-8b7f-25db230f4b78")
 		(property "Sheetname" "06_batteryChg"
-			(at 111.125 76.1234 0)
+			(at 110.49 76.1234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -367,7 +325,7 @@
 			)
 		)
 		(property "Sheetfile" "batchg.kicad_sch"
-			(at 111.125 83.1346 0)
+			(at 110.49 91.0086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
