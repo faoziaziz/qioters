@@ -5730,7 +5730,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0eb382de-ebde-4ba5-b8c3-18e7646a61c0")
-		(property "Reference" "J26"
+		(property "Reference" "J27"
 			(at 74.295 104.1399 0)
 			(effects
 				(font
@@ -5883,7 +5883,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/1395fa6c-ef59-41cc-a4ce-0528bf6ec8b4"
-					(reference "J26")
+					(reference "J27")
 					(unit 1)
 				)
 			)
@@ -6988,7 +6988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "497622c9-a37d-42ab-bd4b-efacfab74cf9")
-		(property "Reference" "J28"
+		(property "Reference" "J29"
 			(at 158.75 125.0949 0)
 			(effects
 				(font
@@ -7138,7 +7138,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/1395fa6c-ef59-41cc-a4ce-0528bf6ec8b4"
-					(reference "J28")
+					(reference "J29")
 					(unit 1)
 				)
 			)
@@ -7286,7 +7286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66c3d7c3-ce8e-451a-84ec-909d368d5799")
-		(property "Reference" "J25"
+		(property "Reference" "J26"
 			(at 64.135 130.81 0)
 			(effects
 				(font
@@ -7608,7 +7608,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/1395fa6c-ef59-41cc-a4ce-0528bf6ec8b4"
-					(reference "J25")
+					(reference "J26")
 					(unit 1)
 				)
 			)
@@ -7624,7 +7624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b116c33-3605-4cfb-a2a0-4057e071add6")
-		(property "Reference" "J24"
+		(property "Reference" "J25"
 			(at 22.225 33.02 0)
 			(effects
 				(font
@@ -7778,7 +7778,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/1395fa6c-ef59-41cc-a4ce-0528bf6ec8b4"
-					(reference "J24")
+					(reference "J25")
 					(unit 1)
 				)
 			)
@@ -8947,7 +8947,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d12c5b9-8dd7-45fe-bf54-3e1d73c38271")
-		(property "Reference" "J27"
+		(property "Reference" "J28"
 			(at 74.295 114.2999 0)
 			(effects
 				(font
@@ -9100,7 +9100,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/1395fa6c-ef59-41cc-a4ce-0528bf6ec8b4"
-					(reference "J27")
+					(reference "J28")
 					(unit 1)
 				)
 			)
@@ -10504,7 +10504,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df5c4b68-0190-416d-85e1-cbe9cfe69f40")
-		(property "Reference" "J23"
+		(property "Reference" "J24"
 			(at 20.955 80.645 0)
 			(effects
 				(font
@@ -10658,7 +10658,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/1395fa6c-ef59-41cc-a4ce-0528bf6ec8b4"
-					(reference "J23")
+					(reference "J24")
 					(unit 1)
 				)
 			)

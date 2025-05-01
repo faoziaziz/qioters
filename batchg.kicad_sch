@@ -5729,7 +5729,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10a14298-0527-4d9c-b67f-77caa907bfe0")
-		(property "Reference" "J13"
+		(property "Reference" "J14"
 			(at 71.12 69.85 0)
 			(effects
 				(font
@@ -5889,7 +5889,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "J13")
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -6935,7 +6935,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3dbdbf77-ffc4-4331-8aab-c3bc68f27c3d")
-		(property "Reference" "J15"
+		(property "Reference" "J16"
 			(at 118.11 175.2599 90)
 			(effects
 				(font
@@ -7088,7 +7088,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "J15")
+					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -7841,7 +7841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60550456-e82b-47c3-a24f-535080690ab9")
-		(property "Reference" "J11"
+		(property "Reference" "J12"
 			(at 34.29 27.94 0)
 			(effects
 				(font
@@ -7989,7 +7989,7 @@
 		(instances
 			(project "qiot"
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "J11")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -10223,7 +10223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be3068c1-9abd-4c61-bd15-ac3ec57bc29b")
-		(property "Reference" "J12"
+		(property "Reference" "J13"
 			(at 45.72 69.85 0)
 			(effects
 				(font
@@ -10383,7 +10383,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "J12")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -11125,7 +11125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e56ddd23-c1fb-49d3-976a-65e79cce4431")
-		(property "Reference" "J14"
+		(property "Reference" "J15"
 			(at 100.33 163.1949 90)
 			(effects
 				(font
@@ -11278,7 +11278,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/b821f11b-e956-4fb1-8b7f-25db230f4b78"
-					(reference "J14")
+					(reference "J15")
 					(unit 1)
 				)
 			)

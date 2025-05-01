@@ -2790,7 +2790,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4cfba07b-43ce-4b31-a561-d70129957512")
-		(property "Reference" "J29"
+		(property "Reference" "J30"
 			(at 73.66 127 0)
 			(effects
 				(font
@@ -2980,7 +2980,7 @@
 		(instances
 			(project ""
 				(path "/0db193be-516d-4409-bb62-b8733a9e8874/ea7bcb6b-3454-456d-bab5-9b7d764b6981"
-					(reference "J29")
+					(reference "J30")
 					(unit 1)
 				)
 			)
