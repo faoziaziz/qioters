@@ -2243,7 +2243,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "PMBT2222A,215"
 			(at 136.525 69.85 0)
 			(effects
 				(font
@@ -2276,6 +2276,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 136.525 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 136.525 69.85 0)
 			(effects
 				(font
@@ -2479,7 +2487,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "PMEG3020EH"
 			(at 133.35 43.18 0)
 			(effects
 				(font
@@ -2512,6 +2520,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 133.35 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 133.35 43.18 0)
 			(effects
 				(font
@@ -2774,7 +2790,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "TYPE-C-31-M-12"
 			(at 64.135 50.165 0)
 			(effects
 				(font
@@ -2807,6 +2823,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 64.135 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 64.135 50.165 0)
 			(effects
 				(font
@@ -3049,7 +3073,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "CL10A226MQ8NRNC"
 			(at 164.465 40.005 0)
 			(effects
 				(font
@@ -3082,6 +3106,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 164.465 40.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 164.465 40.005 0)
 			(effects
 				(font
@@ -3215,7 +3247,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "PMEG3020EH"
 			(at 132.08 32.385 0)
 			(effects
 				(font
@@ -3248,6 +3280,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 132.08 32.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 132.08 32.385 0)
 			(effects
 				(font
@@ -3378,7 +3418,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0402FR-075K1L"
 			(at 31.75 67.31 0)
 			(effects
 				(font
@@ -3411,6 +3451,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 31.75 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 31.75 67.31 0)
 			(effects
 				(font
@@ -3541,7 +3589,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0402FR-072K7L"
 			(at 119.38 48.895 0)
 			(effects
 				(font
@@ -3574,6 +3622,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 119.38 48.895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 119.38 48.895 0)
 			(effects
 				(font
@@ -3781,7 +3837,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "C6210741"
 			(at 156.21 64.135 0)
 			(effects
 				(font
@@ -3814,6 +3870,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 156.21 64.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 156.21 64.135 0)
 			(effects
 				(font
@@ -4076,7 +4140,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0402WGF1001TCE"
 			(at 146.05 64.135 0)
 			(effects
 				(font
@@ -4109,6 +4173,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 146.05 64.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 146.05 64.135 0)
 			(effects
 				(font
@@ -4304,7 +4376,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0402FR-075K1L"
 			(at 96.012 59.182 0)
 			(effects
 				(font
@@ -4337,6 +4409,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 96.012 59.182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 96.012 59.182 0)
 			(effects
 				(font

@@ -2752,7 +2752,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0402FR-070RL"
 			(at 33.02 92.71 0)
 			(effects
 				(font
@@ -2785,6 +2785,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 33.02 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 33.02 92.71 0)
 			(effects
 				(font
@@ -2917,7 +2925,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "PMBT2222A,215"
 			(at 46.99 62.23 0)
 			(effects
 				(font
@@ -2950,6 +2958,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 46.99 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 46.99 62.23 0)
 			(effects
 				(font
@@ -2994,7 +3010,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1K"
 			(at 44.45 95.2499 0)
 			(effects
 				(font
@@ -3086,7 +3102,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0402WGF1001TCE"
 			(at 41.91 93.98 0)
 			(effects
 				(font
@@ -3119,6 +3135,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 41.91 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 41.91 93.98 0)
 			(effects
 				(font
@@ -3346,7 +3370,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a03943a8-8229-4a8d-9397-6b3cae0e742d")
 		(property "Reference" "J11"
@@ -3481,6 +3505,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 100.33 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 100.33 106.68 0)
 			(effects
 				(font
@@ -3727,7 +3759,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0402FR-070RL"
 			(at 135.89 91.44 0)
 			(effects
 				(font
@@ -3760,6 +3792,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 135.89 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 135.89 91.44 0)
 			(effects
 				(font
@@ -3891,7 +3931,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0402WGF1001TCE"
 			(at 34.29 62.23 0)
 			(effects
 				(font
@@ -3924,6 +3964,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 34.29 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 34.29 62.23 0)
 			(effects
 				(font

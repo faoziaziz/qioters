@@ -2768,7 +2768,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "PMBT2222A,215"
 			(at 73.025 49.53 0)
 			(effects
 				(font
@@ -2801,6 +2801,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 73.025 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 73.025 49.53 0)
 			(effects
 				(font
@@ -2844,7 +2852,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.0uF"
+		(property "Value" "1uF"
 			(at 200.66 35.306 90)
 			(effects
 				(font
@@ -2936,7 +2944,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "CL05A105KO5NNNC"
 			(at 201.93 36.83 0)
 			(effects
 				(font
@@ -2969,6 +2977,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 201.93 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 201.93 36.83 0)
 			(effects
 				(font
@@ -3241,7 +3257,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "C6210741"
 			(at 92.71 43.815 0)
 			(effects
 				(font
@@ -3274,6 +3290,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 92.71 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 92.71 43.815 0)
 			(effects
 				(font
@@ -3473,7 +3497,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "TS5A3159DBVR-TP"
 			(at 78.74 110.49 0)
 			(effects
 				(font
@@ -3506,6 +3530,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 78.74 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 78.74 110.49 0)
 			(effects
 				(font
@@ -3649,7 +3681,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "CS1005X7R104K500NR"
 			(at 69.85 90.17 0)
 			(effects
 				(font
@@ -3689,6 +3721,14 @@
 				)
 			)
 		)
+		(property "partNum" ""
+			(at 69.85 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c25b8eb6-0e3a-4c73-a914-7a780aaae380")
 		)
@@ -3711,7 +3751,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "43524448-6cb6-4f46-a9c0-40e8ca8808a5")
 		(property "Reference" "J5"
@@ -3855,6 +3895,14 @@
 				)
 			)
 		)
+		(property "partNum" ""
+			(at 31.115 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "44d14176-cf39-4d67-a2c1-9e4faa110157")
 		)
@@ -3955,7 +4003,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 162.56 38.0999 0)
 			(effects
 				(font
@@ -4047,7 +4095,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0402FR-0710KL"
 			(at 160.02 36.83 0)
 			(effects
 				(font
@@ -4080,6 +4128,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 160.02 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 160.02 36.83 0)
 			(effects
 				(font
@@ -4210,7 +4266,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0402WGF1001TCE"
 			(at 82.55 43.815 0)
 			(effects
 				(font
@@ -4243,6 +4299,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 82.55 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 82.55 43.815 0)
 			(effects
 				(font
@@ -4416,7 +4480,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100K"
 			(at 111.76 121.158 0)
 			(effects
 				(font
@@ -4508,7 +4572,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
 			(at 116.84 118.11 0)
 			(effects
 				(font
@@ -4541,6 +4605,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 116.84 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 116.84 118.11 0)
 			(effects
 				(font
@@ -4647,7 +4719,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100K"
 			(at 35.56 99.568 0)
 			(effects
 				(font
@@ -4739,7 +4811,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
 			(at 40.64 96.52 0)
 			(effects
 				(font
@@ -4779,6 +4851,14 @@
 				)
 			)
 		)
+		(property "partNum" ""
+			(at 40.64 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "79a30635-38a9-4e78-aadb-8d3920f18d8f")
 		)
@@ -4801,7 +4881,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "97fa7eaa-63c8-4bbd-940f-44918189884b")
 		(property "Reference" "TP6"
@@ -4945,6 +5025,14 @@
 				)
 			)
 		)
+		(property "partNum" ""
+			(at 123.19 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "31261195-b1d8-4832-b956-e7147766159a")
 		)
@@ -5067,7 +5155,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0402WGF1501TCE"
 			(at 48.26 96.52 0)
 			(effects
 				(font
@@ -5107,6 +5195,14 @@
 				)
 			)
 		)
+		(property "partNum" ""
+			(at 48.26 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1b7f2f1c-38ca-429b-b45c-a59cd1ae3327")
 		)
@@ -5129,7 +5225,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9e872739-61f0-481e-bff5-293a7b6a16d5")
 		(property "Reference" "TP5"
@@ -5273,6 +5369,14 @@
 				)
 			)
 		)
+		(property "partNum" ""
+			(at 119.38 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "001c528e-1135-4fb1-9e80-c9ece088b278")
 		)
@@ -5303,7 +5407,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100K"
 			(at 120.65 121.158 0)
 			(effects
 				(font
@@ -5395,7 +5499,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0402FR-07100KL"
 			(at 125.73 118.11 0)
 			(effects
 				(font
@@ -5428,6 +5532,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 125.73 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 125.73 118.11 0)
 			(effects
 				(font
@@ -5561,7 +5673,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "W25Q128JVSIQ"
 			(at 180.34 49.53 0)
 			(effects
 				(font
@@ -5594,6 +5706,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 180.34 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 180.34 49.53 0)
 			(effects
 				(font
@@ -5744,7 +5864,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "CS1005X7R104K500NR"
 			(at 195.58 36.83 0)
 			(effects
 				(font
@@ -5777,6 +5897,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 195.58 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 195.58 36.83 0)
 			(effects
 				(font
@@ -6004,7 +6132,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f06f811a-404d-428b-86b4-e74a1889ecd9")
 		(property "Reference" "J4"
@@ -6141,6 +6269,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 24.765 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 24.765 97.155 0)
 			(effects
 				(font

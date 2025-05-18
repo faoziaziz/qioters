@@ -2642,7 +2642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 145.161 53.594 90)
 			(effects
 				(font
@@ -2725,7 +2725,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0402FR-0710KL"
 			(at 144.145 53.34 0)
 			(effects
 				(font
@@ -2765,6 +2765,14 @@
 				)
 			)
 		)
+		(property "partNum" ""
+			(at 144.145 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "12a5cd39-3163-44e9-8bd6-b36f8dd95412")
 		)
@@ -2788,7 +2796,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4cfba07b-43ce-4b31-a561-d70129957512")
 		(property "Reference" "J30"
 			(at 73.66 127 0)
@@ -2922,6 +2930,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 73.66 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 73.66 100.33 0)
 			(effects
 				(font
@@ -3424,7 +3440,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "PCA9539PW,118"
 			(at 123.19 80.01 0)
 			(effects
 				(font
@@ -3457,6 +3473,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 123.19 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 123.19 80.01 0)
 			(effects
 				(font
@@ -3573,7 +3597,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 72.771 56.769 90)
 			(effects
 				(font
@@ -3656,7 +3680,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0402FR-0710KL"
 			(at 71.755 56.515 0)
 			(effects
 				(font
@@ -3689,6 +3713,14 @@
 			)
 		)
 		(property "Value2" ""
+			(at 71.755 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "partNum" ""
 			(at 71.755 56.515 0)
 			(effects
 				(font
