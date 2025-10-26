@@ -454,6 +454,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -514,10 +515,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../qiot_28042025/",
+      "plot": "../qiot_19092025/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "qiot.stl",
       "svg": "",
       "vrml": ""
     },
@@ -550,6 +551,12 @@
           "group_by": true,
           "label": "Value",
           "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": " LCSC Part #",
+          "name": " LCSC Part #",
           "show": true
         },
         {
@@ -796,12 +803,18 @@
           "group_by": false,
           "label": "JLCPARTS",
           "name": "JLCPARTS",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Manufacture",
           "name": "Manufacture",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part # ",
+          "name": "LCSC Part # ",
           "show": false
         }
       ],
@@ -810,7 +823,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Manufacture"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -841,7 +854,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "qiot_revBattery",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

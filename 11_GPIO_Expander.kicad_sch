@@ -2773,6 +2773,15 @@
 				)
 			)
 		)
+		(property " LCSC Part #" "C60490"
+			(at 144.145 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "12a5cd39-3163-44e9-8bd6-b36f8dd95412")
 		)
@@ -2943,6 +2952,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property " LCSC Part #" ""
+			(at 73.66 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "11"
@@ -3488,6 +3506,15 @@
 				)
 			)
 		)
+		(property " LCSC Part #" "C2687996"
+			(at 123.19 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "17"
 			(uuid "594c4d83-4b1a-4e4f-97b9-052277a6f789")
 		)
@@ -3726,6 +3753,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property " LCSC Part #" "C60490"
+			(at 71.755 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
